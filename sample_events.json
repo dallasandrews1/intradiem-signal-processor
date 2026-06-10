@@ -1,0 +1,6 @@
+[
+  {"account_id":"synchrony-financial","date":"2026-05-10","licensed_seats":500,"active_seats":444,"total_agents":1200,"agents_coached":800,"licensed_rules":80,"active_rules":50,"automation_events":14000,"wfm_connected_days":120,"crm_connected":true},
+  {"account_id":"synchrony-financial","date":"2026-05-11","licensed_seats":500,"active_seats":447,"total_agents":1200,"agents_coached":810,"licensed_rules":80,"active_rules":50,"automation_events":14200,"wfm_connected_days":121,"crm_connected":true},
+  {"account_id":"centene-corporation","date":"2026-05-10","licensed_seats":800,"active_seats":600,"total_agents":2000,"agents_coached":900,"licensed_rules":120,"active_rules":90,"automation_events":22000,"wfm_connected_days":95,"crm_connected":false},
+  {"account_id":"centene-corporation","date":"2026-05-11","licensed_seats":800,"active_seats":605,"total_agents":2000,"agents_coached":895,"licensed_rules":120,"active_rules":90,"automation_events":21800,"wfm_connected_days":96,"crm_connected":false}
+]
